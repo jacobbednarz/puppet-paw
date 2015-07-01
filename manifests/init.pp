@@ -1,3 +1,8 @@
+# Install Paw.app.
+#
+# Examples
+#
+#   include paw
 class paw (
   $version = '2.2.2',
 ) {
