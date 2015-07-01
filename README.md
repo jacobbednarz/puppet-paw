@@ -1,4 +1,4 @@
-# Paw
+# Paw [![Build Status](https://travis-ci.org/jacobbednarz/puppet-paw.svg)](https://travis-ci.org/jacobbednarz/puppet-paw)
 
 Installs [Paw](https://luckymarmot.com/paw)  - The ultimate REST client for Mac
 
